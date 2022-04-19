@@ -1,2 +1,2 @@
-# myc0de
+# mycode
 Tracking my code
